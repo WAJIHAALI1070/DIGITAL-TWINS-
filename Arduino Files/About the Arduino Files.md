@@ -15,34 +15,28 @@ This repository contains Arduino sketch files for interfacing an ESP32 microcont
 # Getting Started
   
   **1. Setting Up Arduino IDE:**
-  
-   a. Install the Arduino IDE from Arduino's official website.
-   b. Add support for ESP32 boards in the Arduino IDE (instructions available on the ESP32 GitHub repository).
+       a. Install the Arduino IDE from Arduino's official website.
+       b. Add support for ESP32 boards in the Arduino IDE (instructions available on the ESP32 GitHub repository).
 
   **2. Installing Libraries:**
-        
-   a. Ensure all necessary libraries are installed. Library dependencies are listed at the beginning of each .ino file.
+         a. Ensure all necessary libraries are installed. Library dependencies are listed at the beginning of each .ino file.
 
   **3. Hardware Setup:**
-      
-   a. Connect your sensors to the ESP32 development board following the wiring diagrams provided in the respective .ino files.
-   b. Verify the pin configurations and adjust if necessary to match your setup.
+         a. Connect your sensors to the ESP32 development board following the wiring diagrams provided in the respective .ino files.
+         b. Verify the pin configurations and adjust if necessary to match your setup.
 
   **4. Uploading and Running the Sketch:**
-   
-   a. Open the desired .ino file in Arduino IDE.
-   b. Select the correct ESP32 board and COM port.
-   c. Upload the sketch to your ESP32 board.
+        a. Open the desired .ino file in Arduino IDE.
+        b. Select the correct ESP32 board and COM port.
+        c. Upload the sketch to your ESP32 board.
 
   **5. Monitoring Output:**
-     
-   a. Open the Serial Monitor in Arduino IDE to view sensor data output.
-   b. Adjust the baud rate as specified in the sketch file for optimal communication.
+        a. Open the Serial Monitor in Arduino IDE to view sensor data output.
+        b. Adjust the baud rate as specified in the sketch file for optimal communication.
 
   **6. Customization and Expansion:**
-      
-   a. Modify the sketch files to suit additional sensors or different data processing requirements.
-   b. Expand functionality by integrating with external platforms or adding more sensors as needed.
+         a. Modify the sketch files to suit additional sensors or different data processing requirements.
+         b. Expand functionality by integrating with external platforms or adding more sensors as needed.
 
 # Troubleshooting
   1. If encountering issues during compilation or upload, ensure all libraries are up-to-date and compatible with your ESP32 board.
