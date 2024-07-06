@@ -60,8 +60,8 @@ Connect the hardware as follows:
 
 ## Usage
 1. Clone this repository or download the ZIP file and extract it.
-2. Open the Arduino IDE and load the provided `.ino` file.
-3. Adjust the `TX2`, `RX2`, `DE`, and `RE` pin definitions in the code if necessary.
+2. Open the Arduino IDE and load the provided .ino file.
+3. Adjust the TX2, RX2, DE, and RE pin definitions in the code if necessary.
 4. Upload the code to your Arduino board.
 5. Open the Serial Monitor to view the readings from the sensor.
 
