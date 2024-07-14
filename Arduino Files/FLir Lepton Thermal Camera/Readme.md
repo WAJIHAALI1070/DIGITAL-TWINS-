@@ -62,7 +62,7 @@ List the software dependencies and tools needed:
 
 ## Example Code
 
-Provide a brief example of code snippet demonstrating how to initialize and read data from the FLIR Lepton thermal camera using ESP32.
+A brief example of code snippet demonstrating how to initialize and read data from the FLIR Lepton thermal camera using ESP32.
 
 ```cpp
 // Example code snippet
@@ -90,4 +90,4 @@ void loop() {
   
   delay(1000); // Adjust as needed
 }
-'''
+
